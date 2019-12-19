@@ -11,6 +11,6 @@ cd html-project-seed
 npm i
 npm run dev
 ```
-Access location https://localhost:9000.
+Access location http://localhost:9000.
 
 Done.
