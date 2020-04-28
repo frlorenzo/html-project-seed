@@ -1,7 +1,13 @@
 .cache
+.DS_Store
+
+build
 dist
 logs
 node_modules
-.DS_Store
+
 *.log
+*.gz
+*.swp
+
 package-lock.json
