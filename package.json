@@ -4,17 +4,14 @@
   "description": "Minimal HTML/CSS project template",
   "main": "index.html",
   "scripts": {
-    "clean.all": "rm -rf dist; rm -rf node_modules; rm -rf package-lock.json",
+    "clean.all": "rm -rf node_modules; rm -rf package-lock.json",
     "dev": "live-server --port=9000 --no-browser"
   },
   "keywords": [],
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zavinio/html-project-bare.git"
-  },
-  "author": "Felipe Lorenzoc VI <frlorenzo@cnkdynamics.com>",
-  "license": "ISC",
-  "devDependencies": {
-    "live-server": "^1.2.1"
   }
 }
