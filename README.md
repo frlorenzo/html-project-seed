@@ -1,4 +1,4 @@
-# HTML/CSS Project Seed
+# README
 
 HTML/CSS project template for simple local web development projects or playground.
 
