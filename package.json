@@ -1,17 +1,16 @@
 {
-  "name": "html-project-seed",
+  "name": "html-project-bare",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal HTML/CSS project template",
   "main": "index.html",
   "scripts": {
     "clean.all": "rm -rf dist; rm -rf node_modules; rm -rf package-lock.json",
-    "dev": "live-server --port=9000 --no-browser",
-    "start": "python -m SimpleHTTPServer"
+    "dev": "live-server --port=9000 --no-browser"
   },
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zavinio/html-project-seed.git"
+    "url": "git+https://github.com/zavinio/html-project-bare.git"
   },
   "author": "Felipe Lorenzoc VI <frlorenzo@cnkdynamics.com>",
   "license": "ISC",
